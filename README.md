@@ -9,4 +9,4 @@ This project contains several tools that I use to facilitate sharing my content 
 ### Single-Cam__Render-Advance-0.1
 This is a single camera function that is initiated through "saving" the program, or by pressing **CTRL+S**.
 Regardless if the active camera is on a path or in a stationary position, the script just renders a single image of the current timeline frame with your project's render settings, and then advances to the next frame in the timeline. Because you advance to the next frame, the project will be left at an altered state: you will be prompted to save your project if you save and then quit.
-> Refer to [How-To #1](how-to) for use.
+> Refer to [How-To #1](https://github.com/JermyNeutron/Blender-Tools#how-to) for use.
